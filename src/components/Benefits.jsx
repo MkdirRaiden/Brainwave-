@@ -57,7 +57,6 @@ const Benefits = () => {
                   )}
                 </div>
               </div>
-
               <ClipPath />
             </div>
           ))}
