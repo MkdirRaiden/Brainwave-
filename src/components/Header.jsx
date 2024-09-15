@@ -5,7 +5,7 @@ import { brainwave } from "../utils";
 import { navigation } from "../constants";
 import Button from "./Button";
 import MenuSvg from "../components/svg/MenuSvg";
-import { HamburgerMenu } from "./design/Header";
+import { HamburgerMenu } from "../components/design/Header";
 import { useState } from "react";
 import { Link } from "react-scroll";
 

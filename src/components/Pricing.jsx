@@ -2,7 +2,7 @@ import Section from "./Section";
 import { smallSphere, stars } from "../utils";
 import Heading from "./Heading";
 import PricingList from "./PricingList";
-import { LeftLine, RightLine } from "./design/Pricing";
+import { LeftLine, RightLine } from "../components/design/Pricing";
 import { ScrollParallax } from "react-just-parallax";
 
 const Pricing = () => {
