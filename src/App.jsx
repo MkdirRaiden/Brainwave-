@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import ButtonGradient from "./assets/svg/ButtonGradient";
+import ButtonGradient from "./components/svg/ButtonGradient";
 import Hero from "./components/Hero";
 import Benefits from "./components/Benefits";
 import Collaboration from "./components/Collaboration";

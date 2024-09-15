@@ -1,4 +1,4 @@
-import SectionSvg from "../assets/svg/SectionSvg";
+import SectionSvg from "../components/svg/SectionSvg";
 
 const Section = ({
   className,

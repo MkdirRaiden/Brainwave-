@@ -1,4 +1,4 @@
-import { check } from "../assets";
+import { check } from "../utils";
 import { pricing } from "../constants";
 import Button from "./Button";
 

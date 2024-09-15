@@ -1,4 +1,4 @@
-import { brainwaveSymbol, check } from "../assets";
+import { brainwaveSymbol, check } from "../utils";
 import { collabApps, collabContent, collabText } from "../constants";
 import Button from "./Button";
 import Section from "./Section";
@@ -6,7 +6,6 @@ import { LeftCurve, RightCurve } from "./design/Collaboration";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 import { useGSAP } from "@gsap/react";
-import { useEffect } from "react";
 gsap.registerPlugin(ScrollTrigger);
 
 const Collaboration = () => {
